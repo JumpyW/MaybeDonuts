@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @MaybeDonuts
-- 👀 I’m interested in 
-- 🌱 I’m currently 
+- 👀 I’m interested in boys
+- 🌱 I’m currently in Kiev
 - 📫 How to reach me. 
-- 🧾 Languages: 
-- 😄 Pronouns: 
+- 🧾 Languages: ukrainian
+- 😄 Pronouns: they/them
 
 <!---
 MaybeDonuts/MaybeDonuts is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
